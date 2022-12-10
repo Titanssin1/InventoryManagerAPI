@@ -1,1 +1,1 @@
-# InventoryManagerAPI
+# InventoryManager
