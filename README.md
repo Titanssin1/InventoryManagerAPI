@@ -1,1 +1,1 @@
-# InventoryManager
+# StoreInventoryManager
